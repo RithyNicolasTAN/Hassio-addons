@@ -1,1 +1,1 @@
-"FROM miniflux/miniflux:latest"
+FROM miniflux/miniflux:latest
