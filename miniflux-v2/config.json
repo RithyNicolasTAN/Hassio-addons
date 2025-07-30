@@ -1,0 +1,11 @@
+{
+    "name": "Miniflux",
+    "version": "1.0",
+    "slug": "miniflux",
+    "description": "Miniflux RSS reader",
+    "startup": "services",
+    "boot": "auto",
+    "options": {},
+    "schema": {},
+    "image": "miniflux/miniflux"
+}
